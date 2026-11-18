@@ -26,7 +26,7 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## What works
 
-- 26 sourced pieces representing Reformation, Aritzia, Zara, DÔEN, Gucci, MOTHER, AGOLDE, PAIGE and Alex Mill.
+- 24 photographed pieces representing Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE and Alex Mill.
 - Search, designer/color/category filters and price sorting.
 - Product detail dialogs with original retailer links and price snapshots.
 - Local favorites and personal saved lookbooks.
@@ -37,9 +37,7 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## Product integrity and sources
 
-Product names, links and listed USD snapshots were collected November 17–18, 2026 from public retailer pages and public product data. Snapshots are not a live inventory or price feed; prices, regions, stock, sizes and promotions can change. Aritzia's US price is unknown and displayed as “See retailer”. Gucci's live page was restricted; its product is included from the public product-page snapshot and no photo is fabricated. Aritzia photography could not be retrieved and is left as a labeled placeholder. Zara's selected cardigan was out of stock when checked and is clearly marked archive inspiration; confirm sizing/category at Zara.
-
-Original retailer photos are credited in `ASSET-SOURCES.md`; no affiliation or endorsement is claimed. Several products are shown on a model rather than as a cutout. The boards are styling collages with CSS depth, not 3D garment models, measurements or virtual try-on. The site does not purchase items or combine retailer carts. Shopping takes place on the original retailers' websites.
+Product names, links and listed USD snapshots were collected November 17–18, 2026 from public retailer pages and public product data. Snapshots are not a live inventory or price feed; prices, regions, stock, sizes and promotions can change. The Aritzia pant and Gucci bag were removed because their product photos were unavailable. Zara's selected cardigan was out of stock when checked and is marked archive inspiration; confirm sizing/category at Zara. Original retailer photos are credited in `ASSET-SOURCES.md`; no affiliation or endorsement is claimed. Several products are shown on a model rather than as a cutout. The boards are styling collages with CSS depth, not 3D garment models, measurements or virtual try-on. The site does not purchase items or combine retailer carts. Shopping takes place on the original retailers' websites.
 
 ## Data and persistence
 
