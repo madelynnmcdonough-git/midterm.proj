@@ -59,9 +59,12 @@ The December Nuuly list adds five more rental pieces (13 Nuuly pieces total): a 
 
 ## Separate Men edit
 
-The top Women / Men links keep the women’s cream, burgundy and forest-green page as the default. `#/men` opens a separate olive, navy and tobacco edit with 32 photographed products and five editable starter looks. The eleven labels are Marine Layer, Faherty, Sweet Hat Co., Arc’teryx, Peter Millar, Rhone, Holderness & Bourne, Todd Snyder, Buck Mason, Johnnie-O and J.Crew. Direct hash links work on GitHub Pages and browser back/forward switches departments.
+The top Women / Men links keep the women’s cream, burgundy and forest-green page as the default. `#/men` opens a separate olive, navy and tobacco edit with 31 photographed products and five editable starter looks. The eleven labels are Marine Layer, Faherty, Sweet Hat Co., Arc’teryx, Peter Millar, Rhone, Holderness & Bourne, Todd Snyder, Buck Mason, Johnnie-O and J.Crew. Direct hash links work on GitHub Pages and browser back/forward switches departments.
 
 Men and women have separate favorites and saved-look storage keys. Existing women’s saved data keeps its original keys. Unsaved boards remain in memory while switching departments in the same tab; a full reload still requires explicitly saving a look. Product libraries, categories, brand filters, and starter looks stay in their own department. Photography may be product-only, folded or on a model, as indicated in details. See ASSET-SOURCES.md for credits and November 18 USD snapshots.
 
 
 The J.Crew addition includes a Midnight Cacao cashmere rollneck, navy ribbed johnny-collar sweater, Storm Navy classic chinos, and camel fringed cashmere scarf, all with official on-model photos and November 18 USD snapshots.
+
+
+The Arc’teryx Kragg sneakers were removed from the catalog and all five men’s starter looks at Madelynn’s request. Previously saved looks drop the removed item when loaded.

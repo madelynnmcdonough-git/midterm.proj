@@ -1,5 +1,65 @@
-export const mensBrands=["Marine Layer", "Faherty", "Sweet Hat Co.", "Arc\u2019teryx"];
+export const mensBrands=["Marine Layer","Faherty","Sweet Hat Co.","Arc’teryx","Peter Millar","Rhone","Holderness & Bourne","Todd Snyder","Buck Mason","Johnnie-O","J.Crew"];
 export const mensProducts=[
+  {
+    "id": "men-jcrew-rollneck",
+    "brand": "J.Crew",
+    "name": "Rollneck™ sweater in heavyweight cashmere",
+    "color": "Midnight Cacao",
+    "category": "Knitwear",
+    "tone": "Brown",
+    "price": 298,
+    "image": "men-jcrew-rollneck.jpg",
+    "cutout": false,
+    "url": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/turtleneck/rollnecktrade-sweater-in-heavyweight-cashmere/CZ241?color_name=midnight-cacao",
+    "checkedAt": "2026-11-18",
+    "new": true,
+    "note": "Selected for the men’s edit. Retailer photography shows the piece on a model; other clothing in the photo is not included. Confirm current sizing, price and availability at J.Crew."
+  },
+  {
+    "id": "men-jcrew-polo",
+    "brand": "J.Crew",
+    "name": "Cashmere ribbed johnny-collar sweater",
+    "color": "Navy",
+    "category": "Knitwear",
+    "tone": "Navy",
+    "price": 228,
+    "image": "men-jcrew-polo.jpg",
+    "cutout": false,
+    "url": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/polo/cashmere-ribbed-johnny-collar-sweater/CZ589?color_name=navy",
+    "checkedAt": "2026-11-18",
+    "new": true,
+    "note": "Selected for the men’s edit. Retailer photography shows the piece on a model; other clothing in the photo is not included. Confirm current sizing, price and availability at J.Crew."
+  },
+  {
+    "id": "men-jcrew-chino",
+    "brand": "J.Crew",
+    "name": "Classic chino pant",
+    "color": "Storm Navy",
+    "category": "Trousers",
+    "tone": "Navy",
+    "price": 98,
+    "image": "men-jcrew-chino.jpg",
+    "cutout": false,
+    "url": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/chino/classic-chino-pant/BE611?color_name=storm-navy",
+    "checkedAt": "2026-11-18",
+    "new": true,
+    "note": "Selected for the men’s edit. Retailer photography shows the piece on a model; other clothing in the photo is not included. Confirm current sizing, price and availability at J.Crew."
+  },
+  {
+    "id": "men-jcrew-scarf",
+    "brand": "J.Crew",
+    "name": "Cashmere scarf with fringe",
+    "color": "Camel",
+    "category": "Accessories",
+    "tone": "Camel",
+    "price": 98,
+    "image": "men-jcrew-scarf.jpg",
+    "cutout": false,
+    "url": "https://www.jcrew.com/p/mens/categories/accessories/cold-weather-accessories/scarves/cashmere-scarf-with-fringe/CY918?color_name=camel",
+    "checkedAt": "2026-11-18",
+    "new": true,
+    "note": "Selected for the men’s edit. Retailer photography shows the piece on a model; other clothing in the photo is not included. Confirm current sizing, price and availability at J.Crew."
+  },
   {
     "id": "men-inverness",
     "brand": "Marine Layer",
@@ -7,7 +67,7 @@ export const mensProducts=[
     "color": "Sea Moss Marl",
     "category": "Knitwear",
     "tone": "Olive",
-    "price": 158.0,
+    "price": 158,
     "image": "men-inverness.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/inverness-crew-sweater-5",
@@ -23,7 +83,7 @@ export const mensProducts=[
     "color": "Navy",
     "category": "Knitwear",
     "tone": "Navy",
-    "price": 178.0,
+    "price": 178,
     "image": "men-quarterzip.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/marcus-quarter-zip-sweater",
@@ -39,7 +99,7 @@ export const mensProducts=[
     "color": "Navy/Green Multi Plaid",
     "category": "Tops",
     "tone": "Green",
-    "price": 138.0,
+    "price": 138,
     "image": "men-tahoe.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/tahoe-flannel-shirt-9",
@@ -55,7 +115,7 @@ export const mensProducts=[
     "color": "Fox Trot",
     "category": "Outerwear",
     "tone": "Brown",
-    "price": 248.0,
+    "price": 248,
     "image": "men-barn.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/weston-wax-canvas-barn-jacket-5",
@@ -71,7 +131,7 @@ export const mensProducts=[
     "color": "Taupe",
     "category": "Trousers",
     "tone": "Taupe",
-    "price": 148.0,
+    "price": 148,
     "image": "men-donegal.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/donegal-camp-pant-straight-fit-1",
@@ -87,7 +147,7 @@ export const mensProducts=[
     "color": "Forest Night",
     "category": "Trousers",
     "tone": "Green",
-    "price": 148.0,
+    "price": 148,
     "image": "men-chino.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/saturday-moleskin-chino-slim-straight-4",
@@ -103,7 +163,7 @@ export const mensProducts=[
     "color": "White",
     "category": "Tops",
     "tone": "White",
-    "price": 54.0,
+    "price": 54,
     "image": "men-white-tee.jpg",
     "cutout": true,
     "url": "https://www.marinelayer.com/products/mens-signature-sea-change-crew-tee-in-white",
@@ -119,7 +179,7 @@ export const mensProducts=[
     "color": "Shore Tan Gingham",
     "category": "Tops",
     "tone": "Taupe",
-    "price": 178.0,
+    "price": 178,
     "image": "men-legend.jpg",
     "cutout": false,
     "url": "https://fahertybrand.com/products/legend-sweater-shirt-shore-tan-gingham",
@@ -135,7 +195,7 @@ export const mensProducts=[
     "color": "Blue Ice Houndstooth",
     "category": "Tops",
     "tone": "Blue",
-    "price": 178.0,
+    "price": 178,
     "image": "men-coastline.jpg",
     "cutout": false,
     "url": "https://fahertybrand.com/products/coastline-knit-shirt-blue-ice-houndstooth",
@@ -151,7 +211,7 @@ export const mensProducts=[
     "color": "Woodland Herringbone",
     "category": "Trousers",
     "tone": "Green",
-    "price": 198.0,
+    "price": 198,
     "image": "men-inlet.jpg",
     "cutout": false,
     "url": "https://fahertybrand.com/products/inlet-knit-tweed-pant-woodland-herringbone",
@@ -167,7 +227,7 @@ export const mensProducts=[
     "color": "Timber",
     "category": "Knitwear",
     "tone": "Brown",
-    "price": 198.0,
+    "price": 198,
     "image": "men-sunwashed.jpg",
     "cutout": false,
     "url": "https://fahertybrand.com/products/sunwashed-crewneck-sweater-timber",
@@ -183,7 +243,7 @@ export const mensProducts=[
     "color": "Breaker Blue",
     "category": "Outerwear",
     "tone": "Blue",
-    "price": 298.0,
+    "price": 298,
     "image": "men-headwinds.jpg",
     "cutout": false,
     "url": "https://fahertybrand.com/products/quilted-hooded-jacket-breaker-blue",
@@ -199,7 +259,7 @@ export const mensProducts=[
     "color": "Island Dune Heather",
     "category": "Tops",
     "tone": "Cream",
-    "price": 68.0,
+    "price": 68,
     "image": "men-slub-tee.jpg",
     "cutout": false,
     "url": "https://fahertybrand.com/products/sunwashed-tee-island-dune-heather",
@@ -215,7 +275,7 @@ export const mensProducts=[
     "color": "Olive",
     "category": "Knitwear",
     "tone": "Olive",
-    "price": 180.0,
+    "price": 180,
     "image": "men-rollneck.jpg",
     "cutout": true,
     "url": "https://sweethatco.com/products/sweet-wool-rollneck-olive",
@@ -231,7 +291,7 @@ export const mensProducts=[
     "color": "Brown & Navy",
     "category": "Tops",
     "tone": "Navy",
-    "price": 110.0,
+    "price": 110,
     "image": "men-rugby.jpg",
     "cutout": true,
     "url": "https://sweethatco.com/products/sweet-rugby-polo-brown-navy",
@@ -247,7 +307,7 @@ export const mensProducts=[
     "color": "Brown",
     "category": "Trousers",
     "tone": "Brown",
-    "price": 125.0,
+    "price": 125,
     "image": "men-cords.jpg",
     "cutout": true,
     "url": "https://sweethatco.com/products/sweet-horse-corduroys-brown",
@@ -263,7 +323,7 @@ export const mensProducts=[
     "color": "Wine",
     "category": "Accessories",
     "tone": "Burgundy",
-    "price": 40.0,
+    "price": 40,
     "image": "men-wine-cap.jpg",
     "cutout": true,
     "url": "https://sweethatco.com/products/sweet-stable-wine",
@@ -279,7 +339,7 @@ export const mensProducts=[
     "color": "Green Plaid",
     "category": "Accessories",
     "tone": "Green",
-    "price": 40.0,
+    "price": 40,
     "image": "men-ski-cap.jpg",
     "cutout": true,
     "url": "https://sweethatco.com/products/sweet-ski-green-plaid",
@@ -295,7 +355,7 @@ export const mensProducts=[
     "color": "Houndstooth",
     "category": "Accessories",
     "tone": "Brown",
-    "price": 40.0,
+    "price": 40,
     "image": "men-wool-cap.jpg",
     "cutout": true,
     "url": "https://sweethatco.com/products/sweet-houndstooth-wool",
@@ -319,79 +379,6 @@ export const mensProducts=[
     "new": true,
     "note": "From the Arc’teryx men’s collection. View current specifications, sizes and availability at Arc’teryx."
   },
-  {
-    "id": "men-kragg",
-    "brand": "Arc’teryx",
-    "name": "Kragg Shoe",
-    "color": "Fogstone / Fogstone",
-    "category": "Shoes",
-    "tone": "Grey",
-    "price": 140,
-    "image": "men-kragg.jpg",
-    "cutout": true,
-    "url": "https://arcteryx.com/us/en/shop/mens/kragg-shoe-0078",
-    "checkedAt": "2026-11-18",
-    "new": true,
-    "note": "From the Arc’teryx men’s collection. View current specifications, sizes and availability at Arc’teryx."
-  }
-];
-export const mensTemplates=[
-  {
-    "id": "men-weekend",
-    "title": "Off-duty, well considered",
-    "tag": "OLIVE KNIT / TOBACCO CORD",
-    "desc": "A rollneck, brown corduroy and a wine cap. Easy pieces with a little character.",
-    "theme": "paper",
-    "ids": [
-      "men-rollneck",
-      "men-cords",
-      "men-wine-cap",
-      "men-kragg"
-    ]
-  },
-  {
-    "id": "men-coastal",
-    "title": "The coastal weekend",
-    "tag": "SOFT TEXTURE / QUIET COLOR",
-    "desc": "A sea-moss knit, taupe camp trousers and a plaid cap for slow mornings.",
-    "theme": "sage",
-    "ids": [
-      "men-inverness",
-      "men-donegal",
-      "men-ski-cap",
-      "men-kragg"
-    ]
-  },
-  {
-    "id": "men-field",
-    "title": "Out of office",
-    "tag": "WAXED CANVAS / FOREST GREEN",
-    "desc": "A tobacco barn jacket over a white tee, grounded by forest chinos.",
-    "theme": "paper",
-    "ids": [
-      "men-barn",
-      "men-white-tee",
-      "men-chino",
-      "men-wool-cap",
-      "men-kragg"
-    ]
-  },
-  {
-    "id": "men-trail",
-    "title": "City to trail",
-    "tag": "NAVY SHELL / WOODLAND TEXTURE",
-    "desc": "A technical shell, woodland trousers and pull-on shoes. A practical change of pace.",
-    "theme": "forest",
-    "ids": [
-      "men-beta",
-      "men-inlet",
-      "men-ski-cap",
-      "men-kragg"
-    ]
-  }
-];
-
-mensProducts.push(...[
   {
     "id": "men-perth",
     "brand": "Peter Millar",
@@ -474,7 +461,7 @@ mensProducts.push(...[
     "color": "Heathered Dune",
     "category": "Knitwear",
     "tone": "Cream",
-    "price": 145.0,
+    "price": 145,
     "image": "men-bell.jpg",
     "cutout": true,
     "url": "https://holdernessandbourne.com/products/the-bell-pullover-heathered-dune",
@@ -489,7 +476,7 @@ mensProducts.push(...[
     "color": "Napa & Pacific Blue",
     "category": "Tops",
     "tone": "Blue",
-    "price": 125.0,
+    "price": 125,
     "image": "men-justice.jpg",
     "cutout": true,
     "url": "https://holdernessandbourne.com/products/the-justice-shirt-napa-pacific-blue",
@@ -497,6 +484,67 @@ mensProducts.push(...[
     "checkedAt": "2026-11-18",
     "note": "A considered everyday piece for the men’s edit. Check current sizing, price and availability at the original retailer."
   }
-]);
-mensBrands.push("Peter Millar","Rhone","Holderness & Bourne","Todd Snyder","Buck Mason","Johnnie-O");
-mensTemplates.push({id:'men-clubhouse',title:'A considered classic',tag:'NAVY MERINO / DUNE TEXTURE',desc:'A navy sweater polo, taupe trousers and a houndstooth cap. Polished, with room to relax.',theme:'paper',ids:['men-merino-polo','men-donegal','men-wool-cap','men-kragg']});
+];
+export const mensTemplates=[
+  {
+    "id": "men-weekend",
+    "title": "Off-duty, well considered",
+    "tag": "OLIVE KNIT / TOBACCO CORD",
+    "desc": "A rollneck, brown corduroy and a wine cap. Easy pieces with a little character.",
+    "theme": "paper",
+    "ids": [
+      "men-rollneck",
+      "men-cords",
+      "men-wine-cap"
+    ]
+  },
+  {
+    "id": "men-coastal",
+    "title": "The coastal weekend",
+    "tag": "SOFT TEXTURE / QUIET COLOR",
+    "desc": "A sea-moss knit, taupe camp trousers and a plaid cap for slow mornings.",
+    "theme": "sage",
+    "ids": [
+      "men-inverness",
+      "men-donegal",
+      "men-ski-cap"
+    ]
+  },
+  {
+    "id": "men-field",
+    "title": "Out of office",
+    "tag": "WAXED CANVAS / FOREST GREEN",
+    "desc": "A tobacco barn jacket over a white tee, grounded by forest chinos.",
+    "theme": "paper",
+    "ids": [
+      "men-barn",
+      "men-white-tee",
+      "men-chino",
+      "men-wool-cap"
+    ]
+  },
+  {
+    "id": "men-trail",
+    "title": "City to trail",
+    "tag": "NAVY SHELL / WOODLAND TEXTURE",
+    "desc": "A technical shell, woodland trousers and a plaid cap. A practical change of pace.",
+    "theme": "forest",
+    "ids": [
+      "men-beta",
+      "men-inlet",
+      "men-ski-cap"
+    ]
+  },
+  {
+    "id": "men-clubhouse",
+    "title": "A considered classic",
+    "tag": "NAVY MERINO / DUNE TEXTURE",
+    "desc": "A navy sweater polo, taupe trousers and a houndstooth cap. Polished, with room to relax.",
+    "theme": "paper",
+    "ids": [
+      "men-merino-polo",
+      "men-donegal",
+      "men-wool-cap"
+    ]
+  }
+];
