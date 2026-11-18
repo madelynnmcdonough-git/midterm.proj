@@ -114,3 +114,18 @@ Selected from the user-shared list https://www.nuuly.com/rent/closet/lists/60683
 - **nuuly-bailey.jpg** — Free People Bailey Cape Jacket (Brown). [Nuuly rental](https://www.nuuly.com/rent/products/bailey-cape-jacket?color=020); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/100104298_020_b4?$pdp-regular$).
 
 - **nuuly-imara.jpg** — Maeve by Anthropologie Imara Faux-Suede Funnel-Neck Jacket (Acorn). [Nuuly rental](https://www.nuuly.com/rent/products/imara-faux-suede-funnel-neck-jacket?color=219); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/4115929420130_219_b4?$pdp-regular$).
+
+
+## December Nuuly list — November 18, 2026
+
+Source list: https://www.nuuly.com/rent/closet/lists/d7cef34f-7f7f-46ac-bb2a-d555e97fb9a6 . All five products are rental listings with modeled photography; subscription pricing is separate from retail reference values.
+
+- **nuuly-poncho.jpg** — Anthropologie Faux Fur Trimmed Oversized Poncho (Black). [Nuuly listing](https://www.nuuly.com/rent/products/faux-fur-trimmed-oversized-poncho?color=001); [original photograph](https://s7d2.scene7.com/is/image/nu/112278692_001_b2?$pdp-regular$).
+
+- **nuuly-coco.jpg** — Noize Coco Cropped Glossy Puffer Jacket (Fig). [Nuuly listing](https://www.nuuly.com/rent/products/coco-cropped-glossy-puffer-jacket?color=259); [original photograph](https://s7d2.scene7.com/is/image/nu/114203680_259_b?$pdp-regular$).
+
+- **nuuly-madison.jpg** — Sanctuary Madison Longline Wool-Blend Overcoat (Black). [Nuuly listing](https://www.nuuly.com/rent/products/madison-longline-wool-blend-overcoat?color=001); [original photograph](https://s7d2.scene7.com/is/image/nu/110713260_001_b?$pdp-regular$).
+
+- **nuuly-slip-skirt.jpg** — Intimately by Free People Sweet Escape Half Slip Skirt (Dark Red). [Nuuly listing](https://www.nuuly.com/rent/products/sweet-escape-half-slip-skirt?color=260); [original photograph](https://s7d2.scene7.com/is/image/nu/106846959_260_b?$pdp-regular$).
+
+- **nuuly-acadia.jpg** — Parks Project Acadia Moose Full-Zip High Pile Fleece Jacket (Blue). [Nuuly listing](https://www.nuuly.com/rent/products/acadia-moose-full-zip-high-pile-fleece-jacket?color=040); [original photograph](https://s7d2.scene7.com/is/image/nu/105452874_040_b?$pdp-regular$).

@@ -26,7 +26,7 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## What works
 
-- 42 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
+- 47 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
 - Search, designer/color/category filters and price sorting.
 - Product detail dialogs with original retailer links and price snapshots.
 - Local favorites and personal saved lookbooks.
@@ -52,3 +52,6 @@ Created by Madelynn McDonough. The November 18 shoe edit adds seven kitten-heel 
 
 
 The Nuuly edit adds eight photographed jackets from Madelynn’s shared list, with a dedicated filter and original Nuuly links. Rentals display “Rent at Nuuly”; subscription charges are not included in purchase subtotals or piece-list export totals. Retail reference values are labeled separately inside details. Ayla, Phoebe and Quinn had all sizes rented when checked. No Nuuly account access or subscription action is performed.
+
+
+The December Nuuly list adds five more rental pieces (13 Nuuly pieces total): a faux-fur-trimmed poncho, Noize puffer, Sanctuary overcoat, Intimately slip skirt, and Parks Project fleece. The poncho had all sizes rented when checked. The new Skirts category is available in the catalog and works on the styling board.
