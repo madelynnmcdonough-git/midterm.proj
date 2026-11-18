@@ -26,18 +26,18 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## What works
 
-- 11 sourced pieces representing Reformation, Aritzia, Zara, DÔEN, Gucci, MOTHER, AGOLDE and PAIGE.
+- 26 sourced pieces representing Reformation, Aritzia, Zara, DÔEN, Gucci, MOTHER, AGOLDE, PAIGE and Alex Mill.
 - Search, designer/color/category filters and price sorting.
 - Product detail dialogs with original retailer links and price snapshots.
 - Local favorites and personal saved lookbooks.
 - Outfit studio: add/remove pieces, drag or move with arrow keys, resize, rotate, change layers and board backgrounds, clear and undo.
-- Three editable starter lookbooks.
+- Seven editable starter lookbooks, including four inspired by relaxed knits, full-length denim, long coats and canvas totes.
 - HTML piece-list export with source links, plus an on-screen linked list when a browser does not download files.
 - Responsive desktop/mobile layouts, keyboard controls, focus-trapped dialogs, and reduced-motion support.
 
 ## Product integrity and sources
 
-Product names, links and listed USD snapshots were collected November 17, 2026 from public retailer pages and public product data. Snapshots are not a live inventory or price feed; prices, regions, stock, sizes and promotions can change. Aritzia's US price is unknown and displayed as “See retailer”. Gucci's live page was restricted; its product is included from the public product-page snapshot and no photo is fabricated. Aritzia photography could not be retrieved and is left as a labeled placeholder. Zara's selected cardigan was out of stock when checked and is clearly marked archive inspiration; confirm sizing/category at Zara.
+Product names, links and listed USD snapshots were collected November 17–18, 2026 from public retailer pages and public product data. Snapshots are not a live inventory or price feed; prices, regions, stock, sizes and promotions can change. Aritzia's US price is unknown and displayed as “See retailer”. Gucci's live page was restricted; its product is included from the public product-page snapshot and no photo is fabricated. Aritzia photography could not be retrieved and is left as a labeled placeholder. Zara's selected cardigan was out of stock when checked and is clearly marked archive inspiration; confirm sizing/category at Zara.
 
 Original retailer photos are credited in `ASSET-SOURCES.md`; no affiliation or endorsement is claimed. Several products are shown on a model rather than as a cutout. The boards are styling collages with CSS depth, not 3D garment models, measurements or virtual try-on. The site does not purchase items or combine retailer carts. Shopping takes place on the original retailers' websites.
 

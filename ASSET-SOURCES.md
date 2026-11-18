@@ -33,3 +33,38 @@ Original retailer photography, retrieved November 17, 2026 for this educational 
 DÔEN, AGOLDE and MOTHER prices were also read from their public product JSON data; Reformation, Zara and PAIGE details were inspected on their public product pages. Gucci was restricted in the browser and its product facts came from the publicly indexed official product-page snapshot; no photo is used. Aritzia photo and current US price remain unavailable. Zara was out of stock.
 
 Typography: [Cormorant Garamond and Manrope via Google Fonts](https://fonts.google.com/). Design inspiration: [ShopMy curated shopping](https://shopmy.us/shop?CuratorGroup_id=584175&tab=latest). Original site identity, copy, and layout were created for this project.
+
+
+## Style expansion — November 18, 2026
+
+Selected to reflect the supplied style references; reference screenshots are not republished. Official retailer public product data supplies names, colors, USD snapshot prices and original photography. Alex Mill tote imagery can show sample monograms; this website does not offer personalization. MOTHER denim photos show the product on a model.
+
+- **grey-knit.jpg** — Alex Mill Notting Hill Sweater in Wool (Heather Grey). [Product](https://www.alexmill.com/products/nottinghill-sweater-in-wool-in-heather-grey); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WW346-2745-HEATHER-GREY-15173.jpg?v=1786985909). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **evergreen-knit.jpg** — Alex Mill Notting Hill Sweater in Wool (Evergreen). [Product](https://www.alexmill.com/products/nottinghill-sweater-in-wool-in-evergreen); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WW346-2745-EVERGREEN-15182_09ef5b68-27c8-4d06-9924-d45bac01f5cc.jpg?v=1786985955). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **chocolate-knit.jpg** — Alex Mill Notting Hill Sweater in Wool (Milk Chocolate). [Product](https://www.alexmill.com/products/nottinghill-sweater-in-wool-in-milk-chocolate); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WW346-2745-MILK-CHOCOLATE-15179_1.jpg?v=1786985783). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **grey-turtleneck.jpg** — Alex Mill Christy Rib Turtleneck in Cotton Cashmere (Husky). [Product](https://www.alexmill.com/products/christy-rib-turtleneck-in-cotton-cashmere-2); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WW311-2026-HUSKY-17486.jpg?v=1790972121). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **cream-turtleneck.jpg** — Alex Mill Blair Turtleneck Sweater in Washed Cashmere (Cream). [Product](https://www.alexmill.com/products/blair-turtleneck-sweater-in-washed-cashmere-in-cream); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WW571-2599-CREAM-17538.jpg?v=1790879306). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **navy-coat.jpg** — Alex Mill Long Sophia Coat (Dark Navy). [Product](https://www.alexmill.com/products/long-sophia-coat-in-dark-navy); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WC044-3315-DARK-NAVY-17652.jpg?v=1791302943). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **grey-coat.jpg** — Alex Mill Georgia Wrap Coat in Wool Alpaca (Dark Grey). [Product](https://www.alexmill.com/products/georgia-wrap-coat-in-wool-alpaca-in-dark-grey); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WC033-3345-DARK-GREY-3339.jpg?v=1768353285). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **camel-coat.jpg** — Alex Mill Long Sophia Coat (Camel). [Product](https://www.alexmill.com/products/long-sophia-coat-in-camel); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WC044-3315-CAMEL-17650.jpg?v=1791302981). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **green-tote.jpg** — Alex Mill The Perfect Weekday Tote (Kelly Green). [Product](https://www.alexmill.com/products/the-perfect-weekday-tote-in-kelly-green); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/MA054-2524-KELLY-GREEN-WEEKDAY-15562-3_9ffcc917-0da7-4d46-a8d3-9de4c621a4bf.jpg?v=1793299213). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **espresso-tote.jpg** — Alex Mill The Perfect Daily Tote (Espresso). [Product](https://www.alexmill.com/products/the-perfect-daily-tote-in-espresso); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/MA031-2524-ESPRESSO-DAILY-15586_48f40d64-e08a-4452-8dc9-e8720b4b1ce3.jpg?v=1784580226). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **grey-scarf.jpg** — Alex Mill Flynn Handkerchief Scarf in Wool (Grey). [Product](https://www.alexmill.com/products/handkerchief-scarf-in-wool-in-grey); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WA029-3176-GREY-9336.jpg?v=1757965864). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **striped-belt.jpg** — Alex Mill J. Press x Alex Mill D-Ring Belt (Brown/Light Blue). [Product](https://www.alexmill.com/products/j-press-x-alex-mill-belt-d-ring-belt-in-brown-light-blue); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/WG244-BROWN-LIGHT-BLUE-17740.jpg?v=1793981526). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **suede-boots.jpg** — Alex Mill Fracap Magnifico Boot (Brown Suede). [Product](https://www.alexmill.com/products/fracap-magnifico-boot-in-brown-suede); [original image](https://cdn.shopify.com/s/files/1/0295/5521/files/M120-FRACAP-BROWN-SUEDE-4618_1cb24f97-7d9b-4f0b-b2f2-0bd1811d681e.jpg?v=1727734981). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **outsider.jpg** — MOTHER The Outsider Skimp (Move To The Groove). [Product](https://www.motherdenim.com/products/the-outsider-skimp-move-to-the-groove); [original image](https://cdn.shopify.com/s/files/1/2094/5935/files/11087-1008-VGR_VW-A-FullBodyFront_51243.jpg?v=1789168954). Downloaded with the retailer CDN width parameter set to 1000.
+
+- **weekender.jpg** — MOTHER The Weekender (Backstage Pass). [Product](https://www.motherdenim.com/products/the-weekender-backstage-pass); [original image](https://cdn.shopify.com/s/files/1/2094/5935/files/1585-104-KCP_VW-A-FullBodyFront_51227_ef02d659-ca10-4772-bdca-18895a540a63.jpg?v=1789514464). Downloaded with the retailer CDN width parameter set to 1000.
