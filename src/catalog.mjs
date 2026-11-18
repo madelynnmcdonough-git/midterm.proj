@@ -1,3 +1,4 @@
+import {mensProducts} from './mens-catalog.mjs';
 export const checkedAt='2026-11-17–18';
 export const products=[
  {"id": "nuuly-poncho", "brand": "Anthropologie", "name": "Faux Fur Trimmed Oversized Poncho", "color": "Black", "category": "Outerwear", "tone": "Black", "price": null, "retailValue": 168.0, "image": "nuuly-poncho.jpg", "cutout": false, "rental": true, "allRented": true, "url": "https://www.nuuly.com/rent/products/faux-fur-trimmed-oversized-poncho?color=001", "checkedAt": "2026-11-18", "new": true, "note": "From Madelynn’s December Nuuly list. View subscription terms, size availability and rental details at Nuuly. Retail reference value is not a per-item rental price."},
@@ -56,7 +57,7 @@ export const templates=[
 {"id": "grey-days", "title": "Grey days, good denim", "tag": "SOFT KNITS / LONG LINES", "desc": "A relaxed grey crew, full-length flares and an espresso tote.", "theme": "paper", "ids": ["grey-knit", "weekender", "espresso-tote", "inez"]},{"id": "city-layers", "title": "The long way home", "tag": "NAVY / DENIM / EVERYDAY", "desc": "A long navy coat, cream cashmere and blue bootcut denim.", "theme": "sage", "ids": ["navy-coat", "cream-turtleneck", "outsider", "sofia"]},{"id": "tote-days", "title": "Out for the afternoon", "tag": "A LITTLE GREEN, A LOT OF ROOM", "desc": "Grey knitwear, vintage blue denim and a roomy Alex Mill tote.", "theme": "paper", "ids": ["grey-turtleneck", "agolde", "green-tote", "grey-scarf"]},{"id": "warm-layers", "title": "Something borrowed, something warm", "tag": "CAMEL / CREAM / DARK DENIM", "desc": "Long camel wool over soft cream and a dark denim flare.", "theme": "rose", "ids": ["camel-coat", "cream-turtleneck", "weekender", "espresso-tote"]},
 {"id": "poplin-point", "title": "A little point of view", "tag": "CRISP COTTON / OXBLOOD", "desc": "A white poplin shirt, lived-in denim and an oxblood kitten heel.", "theme": "paper", "ids": ["white-poplin", "agolde", "sofia", "calista-oxblood"]},{"id": "graphic-low", "title": "Low heels, high contrast", "tag": "GRAPHIC LAYERS / BLUE JACQUARD", "desc": "A graphic tee under long navy wool, finished with a blue slingback.", "theme": "sage", "ids": ["navy-coat", "la-tee", "agolde", "wells-blue"]}
 ];
-export const byId=id=>products.find(p=>p.id===id);
+export const byId=id=>[...products,...mensProducts].find(p=>p.id===id);
 export const money=n=>n==null?'See retailer':new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:n%1?2:0}).format(n);
 
 export const priceLabel=p=>p.rental?'Rent at Nuuly':money(p.price);
