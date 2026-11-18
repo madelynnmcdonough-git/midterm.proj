@@ -45,7 +45,7 @@ Favorites and explicitly saved lookbooks use this browser's localStorage. No acc
 
 ## Verification
 
-Eight Node tests cover catalog coverage and HTTPS links, deduplication, totals, layout validation, malformed storage data, template references and escaped HTML export. Browser QA exercises searching, favorites, adding, dragging, keyboard positioning, resize/rotation controls, saving and reloading looks, removal/undo, retailer links, and responsive layout. Build and GitHub Pages deployment should be verified before reporting a live launch.
+Eleven Node tests cover catalog coverage and HTTPS links, deduplication, totals, layout validation, malformed storage data, template references and escaped HTML export. Browser QA exercises searching, favorites, adding, dragging, keyboard positioning, resize/rotation controls, saving and reloading looks, removal/undo, retailer links, and responsive layout. Build and GitHub Pages deployment should be verified before reporting a live launch.
 
 
 Created by Madelynn McDonough. The November 18 shoe edit adds seven kitten-heel options and a dedicated filter. Kelly Wearstler’s public ShopMy latest finds and Closet collection informed the selection: the Hiro Clark and Comme des Garçons PLAY tees appear in her Closet, while the Alex Mill poplin shirt is an independent alternative inspired by her poplin selections. Reformation heels are independently selected, not claimed as Kelly’s recommendations. The striped tee was out of stock and is marked archive inspiration.
@@ -55,3 +55,10 @@ The Nuuly edit adds eight photographed jackets from Madelynn’s shared list, wi
 
 
 The December Nuuly list adds five more rental pieces (13 Nuuly pieces total): a faux-fur-trimmed poncho, Noize puffer, Sanctuary overcoat, Intimately slip skirt, and Parks Project fleece. The poncho had all sizes rented when checked. The new Skirts category is available in the catalog and works on the styling board.
+
+
+## Separate Men edit
+
+The top Women / Men links keep the women’s cream, burgundy and forest-green page as the default. `#/men` opens a separate olive, navy and tobacco edit with 28 photographed products and five editable starter looks. The ten labels are Marine Layer, Faherty, Sweet Hat Co., Arc’teryx, Peter Millar, Rhone, Holderness & Bourne, Todd Snyder, Buck Mason and Johnnie-O. Direct hash links work on GitHub Pages and browser back/forward switches departments.
+
+Men and women have separate favorites and saved-look storage keys. Existing women’s saved data keeps its original keys. Unsaved boards remain in memory while switching departments in the same tab; a full reload still requires explicitly saving a look. Product libraries, categories, brand filters, and starter looks stay in their own department. Photography may be product-only, folded or on a model, as indicated in details. See ASSET-SOURCES.md for credits and November 18 USD snapshots.
