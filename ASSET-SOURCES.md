@@ -164,3 +164,11 @@ Source list: https://www.nuuly.com/rent/closet/lists/d7cef34f-7f7f-46ac-bb2a-d55
 - `men-sully.jpg` — [Original product](https://www.johnnie-o.com/products/sully-1-4-zip-pullover-helios-blue) · [Retailer photograph](https://cdn.shopify.com/s/files/1/2275/0137/files/FA26_MENS_OF_JMKO1460_SULLY_HELIOSBLUE_013.jpg?v=1793367071&width=1000) · USD price checked November 18, 2026.
 - `men-bell.jpg` — [Original product](https://holdernessandbourne.com/products/the-bell-pullover-heathered-dune) · [Retailer photograph](https://cdn.shopify.com/s/files/1/0269/8763/files/HoldernessBourne6855657eb4df486855657eb5283.542066736855657eb5283.png?v=1757104337) · USD price checked November 18, 2026.
 - `men-justice.jpg` — [Original product](https://holdernessandbourne.com/products/the-justice-shirt-napa-pacific-blue) · [Retailer photograph](https://cdn.shopify.com/s/files/1/0269/8763/files/download_8ab40fd6-e0c6-4679-ad72-9fe611f7c7e1.png?v=1777929973) · USD price checked November 18, 2026.
+
+- `men-jcrew-rollneck.jpg` — [J.Crew product](https://www.jcrew.com/p/mens/categories/clothing/sweaters/turtleneck/rollnecktrade-sweater-in-heavyweight-cashmere/CZ241?color_name=midnight-cacao) · [Official photograph](https://www.jcrew.com/s7-img-facade/CZ241_BR8813_m?hei=1700&crop=0,0,1360,0) · USD snapshot $298; November 18, 2026. On-model photography.
+
+- `men-jcrew-polo.jpg` — [J.Crew product](https://www.jcrew.com/p/mens/categories/clothing/sweaters/polo/cashmere-ribbed-johnny-collar-sweater/CZ589?color_name=navy) · [Official photograph](https://www.jcrew.com/s7-img-facade/CZ589_BL8133_m?hei=1700&crop=0,0,1360,0) · USD snapshot $228; November 18, 2026. On-model photography.
+
+- `men-jcrew-chino.jpg` — [J.Crew product](https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/chino/classic-chino-pant/BE611?color_name=storm-navy) · [Official photograph](https://www.jcrew.com/s7-img-facade/BE611_BL9205_m?hei=1700&crop=0,0,1360,0) · USD snapshot $98; November 18, 2026. On-model photography.
+
+- `men-jcrew-scarf.jpg` — [J.Crew product](https://www.jcrew.com/p/mens/categories/accessories/cold-weather-accessories/scarves/cashmere-scarf-with-fringe/CY918?color_name=camel) · [Official photograph](https://www.jcrew.com/s7-img-facade/CY918_WZ2099_m?hei=1700&crop=0,0,1360,0) · USD snapshot $98; November 18, 2026. On-model photography.
