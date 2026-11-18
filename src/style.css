@@ -10,3 +10,5 @@
 .category-tabs{min-width:0;overflow-x:auto;white-space:nowrap}.category-tabs button{flex-shrink:0}
 
 .brand-strip{overflow-x:auto}.brand-name{flex-shrink:0}
+
+.header-identity{display:flex;flex-direction:column;align-items:flex-start;gap:7px;min-width:0}.designer-credit{font-size:9px;letter-spacing:.45px;color:var(--wine);white-space:nowrap}@media(max-width:600px){.designer-credit{font-size:7px;letter-spacing:.2px}.header-identity{gap:6px}}
