@@ -26,7 +26,7 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## What works
 
-- 34 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
+- 42 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
 - Search, designer/color/category filters and price sorting.
 - Product detail dialogs with original retailer links and price snapshots.
 - Local favorites and personal saved lookbooks.
@@ -45,7 +45,10 @@ Favorites and explicitly saved lookbooks use this browser's localStorage. No acc
 
 ## Verification
 
-Seven Node tests cover catalog coverage and HTTPS links, deduplication, totals, layout validation, malformed storage data, template references and escaped HTML export. Browser QA exercises searching, favorites, adding, dragging, keyboard positioning, resize/rotation controls, saving and reloading looks, removal/undo, retailer links, and responsive layout. Build and GitHub Pages deployment should be verified before reporting a live launch.
+Eight Node tests cover catalog coverage and HTTPS links, deduplication, totals, layout validation, malformed storage data, template references and escaped HTML export. Browser QA exercises searching, favorites, adding, dragging, keyboard positioning, resize/rotation controls, saving and reloading looks, removal/undo, retailer links, and responsive layout. Build and GitHub Pages deployment should be verified before reporting a live launch.
 
 
 Created by Madelynn McDonough. The November 18 shoe edit adds seven kitten-heel options and a dedicated filter. Kelly Wearstler’s public ShopMy latest finds and Closet collection informed the selection: the Hiro Clark and Comme des Garçons PLAY tees appear in her Closet, while the Alex Mill poplin shirt is an independent alternative inspired by her poplin selections. Reformation heels are independently selected, not claimed as Kelly’s recommendations. The striped tee was out of stock and is marked archive inspiration.
+
+
+The Nuuly edit adds eight photographed jackets from Madelynn’s shared list, with a dedicated filter and original Nuuly links. Rentals display “Rent at Nuuly”; subscription charges are not included in purchase subtotals or piece-list export totals. Retail reference values are labeled separately inside details. Ayla, Phoebe and Quinn had all sizes rented when checked. No Nuuly account access or subscription action is performed.

@@ -93,3 +93,24 @@ Reference: https://shopmy.us/shop/kellywearstler?tab=latest and https://shopmy.u
 - **striped-tee.jpg** — Comme des Garçons PLAY Long Sleeve Striped T-Shirt (Grey / White). [Product](https://shop-us.doverstreetmarket.com/products/play-womens-wht-ls-striped-t-shirt-gry-wht-az-t319-051-3-ss22); [original retailer photograph](https://cdn.shopify.com/s/files/1/0491/1471/0168/files/20260325_5023460_381.jpg?v=1774976075). Price is a USD snapshot; check retailer for size and stock.
 
 - **white-poplin.jpg** — Alex Mill Mill Shirt in Cotton Poplin (White). [Product](https://www.alexmill.com/products/mill-shirt-in-cotton-poplin-in-white); [original retailer photograph](https://cdn.shopify.com/s/files/1/0295/5521/files/MS049-2156-WHITE-87279_09d47cbb-4518-4dd4-bf3f-5170a880f5f2.jpg?v=1791400128). Price is a USD snapshot; check retailer for size and stock.
+
+
+## Nuuly jacket edit — November 18, 2026
+
+Selected from the user-shared list https://www.nuuly.com/rent/closet/lists/60683de7-b2e3-4ebe-aded-028a076f6bd0 . Images show models and are labeled accordingly. Rental availability is a snapshot, not live inventory. No subscription charges are inferred from retail reference values.
+
+- **nuuly-dunst.jpg** — Dunst Unisex Cropped Faux Leather Alter Jacket (Dark Grey). [Nuuly rental](https://www.nuuly.com/rent/products/unisex-cropped-faux-leather-alter-jacket?color=005); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/110131364_005_b?$pdp-regular$).
+
+- **nuuly-ayla.jpg** — Reformation Ayla Faux Fur Funnel-Neck Coat (Black). [Nuuly rental](https://www.nuuly.com/rent/products/ayla-faux-fur-funnel-neck-coat?color=001); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/114934656_001_b?$pdp-regular$).
+
+- **nuuly-wool.jpg** — Maeve by Anthropologie Funnel-Neck Wool Jacket (Grey). [Nuuly rental](https://www.nuuly.com/rent/products/funnel-neck-wool-jacket?color=004); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/4133929420116_004_b?$pdp-regular$).
+
+- **nuuly-penny.jpg** — Anthropologie Cropped Penny Lane Faux Suede Jacket (Chestnut). [Nuuly rental](https://www.nuuly.com/rent/products/cropped-penny-lane-faux-suede-jacket?color=026); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/4133929420133_026_b2?$pdp-regular$).
+
+- **nuuly-phoebe.jpg** — Barbour Phoebe Collared Jacket (Olive). [Nuuly rental](https://www.nuuly.com/rent/products/phoebe-collared-jacket?color=230); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/99421968_230_b?$pdp-regular$).
+
+- **nuuly-quinn.jpg** — Alex Mill Quilted Quinn Jacket (Navy). [Nuuly rental](https://www.nuuly.com/rent/products/quilted-quinn-jacket?color=041); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/91483180_041_b?$pdp-regular$).
+
+- **nuuly-bailey.jpg** — Free People Bailey Cape Jacket (Brown). [Nuuly rental](https://www.nuuly.com/rent/products/bailey-cape-jacket?color=020); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/100104298_020_b4?$pdp-regular$).
+
+- **nuuly-imara.jpg** — Maeve by Anthropologie Imara Faux-Suede Funnel-Neck Jacket (Acorn). [Nuuly rental](https://www.nuuly.com/rent/products/imara-faux-suede-funnel-neck-jacket?color=219); [original Nuuly photograph](https://s7d2.scene7.com/is/image/nu/4115929420130_219_b4?$pdp-regular$).
