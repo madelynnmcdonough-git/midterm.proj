@@ -4,3 +4,7 @@
 .mini-item{mix-blend-mode:multiply}.mini-item img{mix-blend-mode:normal}.mini-item.shoes{aspect-ratio:2.3/1}.mini-item.shoes img{width:100%;height:100%;object-fit:cover;object-position:center 76%;filter:contrast(1.08) brightness(1.08)}.mini-item.bags{aspect-ratio:1/1.05}.mini-item.bags img{width:100%;height:100%;object-fit:cover;object-position:center bottom}.board-item{mix-blend-mode:multiply}.board-item img{mix-blend-mode:normal}.board-item.shoes{aspect-ratio:2.3/1}.board-item.shoes>img{width:100%;height:100%;object-fit:cover;object-position:center 76%;filter:contrast(1.08) brightness(1.08)}.board-item.bags{aspect-ratio:1/1.05}.board-item.bags>img{width:100%;height:100%;object-fit:cover;object-position:center bottom}.hero-copy,.hero-visual{min-width:0}.mini-item.denim{mix-blend-mode:multiply}
 /* Transparent retailer PNGs keep their original color and occlude normally. */
 .mini-item:has(img[src$=".png"]),.board-item:has(img[src$=".png"]){mix-blend-mode:normal}
+
+/* Keep retailer backdrops light on the layered styling boards. */
+.mini-item img.new-product-photo,.board-item img.new-product-photo{filter:brightness(1.08) contrast(1.12)}
+.category-tabs{min-width:0;overflow-x:auto;white-space:nowrap}.category-tabs button{flex-shrink:0}
