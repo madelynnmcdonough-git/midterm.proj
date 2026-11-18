@@ -1,4 +1,4 @@
-# The Outfit Edit
+# The Edit
 
 A fashion lookbook and outfit styling website for a Digital Marketing class. Inspired by curated shopping experiences, with an original autumn palette, editorial typography and layered paper boards.
 
