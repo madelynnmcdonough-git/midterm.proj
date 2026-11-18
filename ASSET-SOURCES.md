@@ -68,3 +68,28 @@ Selected to reflect the supplied style references; reference screenshots are not
 - **outsider.jpg** — MOTHER The Outsider Skimp (Move To The Groove). [Product](https://www.motherdenim.com/products/the-outsider-skimp-move-to-the-groove); [original image](https://cdn.shopify.com/s/files/1/2094/5935/files/11087-1008-VGR_VW-A-FullBodyFront_51243.jpg?v=1789168954). Downloaded with the retailer CDN width parameter set to 1000.
 
 - **weekender.jpg** — MOTHER The Weekender (Backstage Pass). [Product](https://www.motherdenim.com/products/the-weekender-backstage-pass); [original image](https://cdn.shopify.com/s/files/1/2094/5935/files/1585-104-KCP_VW-A-FullBodyFront_51227_ef02d659-ca10-4772-bdca-18895a540a63.jpg?v=1789514464). Downloaded with the retailer CDN width parameter set to 1000.
+
+
+## Kitten heels and curator inspiration — November 18, 2026
+
+Reference: https://shopmy.us/shop/kellywearstler?tab=latest and https://shopmy.us/shop/collections/1992385 . No portrait, curator branding or affiliate tracking links were copied. The Hiro Clark and PLAY tees were found in the Closet collection; the white Alex Mill shirt and Reformation shoes are independent selections inspired by the styling direction.
+
+- **calista-oxblood.jpg** — Reformation Calista Slingback Heel — Oxblood (Oxblood Leather). [Product](https://www.thereformation.com/products/calista-slingback-heel/1319641OEL.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1319641/OXBLOOD_LEATHER/1319641.2.OXBLOOD_LEATHER). Price is a USD snapshot; check retailer for size and stock.
+
+- **calista-almond.jpg** — Reformation Calista Slingback Heel — Almond (Almond Leather). [Product](https://www.thereformation.com/products/calista-slingback-heel/1319641ALR.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1319641/ALMOND_LEATHER/1319641.1.ALMOND_LEATHER). Price is a USD snapshot; check retailer for size and stock.
+
+- **calista-croc.jpg** — Reformation Calista Slingback Heel — Chocolate Croc (Chocolate Croc). [Product](https://www.thereformation.com/products/calista-slingback-heel/1319641LTC.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1319641/CHOCOLATE_CROC/1319641.5.CHOCOLATE_CROC). Price is a USD snapshot; check retailer for size and stock.
+
+- **wells-blue.jpg** — Reformation Wells Slingback Heel — Blue Jacquard (Light Blue Jacquard). [Product](https://www.thereformation.com/products/wells-slingback-heel/1320718GBJ.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1320718/LIGHT_BLUE_JACQUARD/1320718.2.LIGHT_BLUE_JACQUARD). Price is a USD snapshot; check retailer for size and stock.
+
+- **wells-bronze.jpg** — Reformation Wells Slingback Heel — Bronze (Bronze Taffeta). [Product](https://www.thereformation.com/products/wells-slingback-heel/1320718BZT.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1320718/BRONZE_TAFFETA/1320718.2.BRONZE_TAFFETA). Price is a USD snapshot; check retailer for size and stock.
+
+- **calista-pump.jpg** — Reformation Calista Kitten Heel Pump (Black Haircalf). [Product](https://www.thereformation.com/products/calista-kitten-heel-pump/1319518BHC.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1319518/BLACK_HAIRCALF/1319518.5.BLACK_HAIRCALF). Price is a USD snapshot; check retailer for size and stock.
+
+- **kitten-mule.jpg** — Reformation Bondage Kitten Mule (Black Leather). [Product](https://www.thereformation.com/products/bondage-kitten-mule/1321166BCL.html); [original retailer photograph](https://media.thereformation.com/image/upload/f_auto,q_auto:eco,w_800/PRD-SFCC/1321166/BLACK_LEATHER/1321166.2.BLACK_LEATHER). Price is a USD snapshot; check retailer for size and stock.
+
+- **la-tee.jpg** — Hiro Clark L.A. Forever Her Tee (Black With White Graphic). [Product](https://www.hiroclark.com/products/l-a-forever-her-tee); [original retailer photograph](https://cdn.shopify.com/s/files/1/0542/2553/files/WOMEN-LA-FOREVER-COMBEDTEE-BLACK.jpg?v=1764342967). Price is a USD snapshot; check retailer for size and stock.
+
+- **striped-tee.jpg** — Comme des Garçons PLAY Long Sleeve Striped T-Shirt (Grey / White). [Product](https://shop-us.doverstreetmarket.com/products/play-womens-wht-ls-striped-t-shirt-gry-wht-az-t319-051-3-ss22); [original retailer photograph](https://cdn.shopify.com/s/files/1/0491/1471/0168/files/20260325_5023460_381.jpg?v=1774976075). Price is a USD snapshot; check retailer for size and stock.
+
+- **white-poplin.jpg** — Alex Mill Mill Shirt in Cotton Poplin (White). [Product](https://www.alexmill.com/products/mill-shirt-in-cotton-poplin-in-white); [original retailer photograph](https://cdn.shopify.com/s/files/1/0295/5521/files/MS049-2156-WHITE-87279_09d47cbb-4518-4dd4-bf3f-5170a880f5f2.jpg?v=1791400128). Price is a USD snapshot; check retailer for size and stock.

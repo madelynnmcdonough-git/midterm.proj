@@ -26,12 +26,12 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## What works
 
-- 24 photographed pieces representing Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE and Alex Mill.
+- 34 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
 - Search, designer/color/category filters and price sorting.
 - Product detail dialogs with original retailer links and price snapshots.
 - Local favorites and personal saved lookbooks.
 - Outfit studio: add/remove pieces, drag or move with arrow keys, resize, rotate, change layers and board backgrounds, clear and undo.
-- Seven editable starter lookbooks, including four inspired by relaxed knits, full-length denim, long coats and canvas totes.
+- Nine editable starter lookbooks, including four inspired by relaxed knits, full-length denim, long coats and canvas totes.
 - HTML piece-list export with source links, plus an on-screen linked list when a browser does not download files.
 - Responsive desktop/mobile layouts, keyboard controls, focus-trapped dialogs, and reduced-motion support.
 
@@ -46,3 +46,6 @@ Favorites and explicitly saved lookbooks use this browser's localStorage. No acc
 ## Verification
 
 Seven Node tests cover catalog coverage and HTTPS links, deduplication, totals, layout validation, malformed storage data, template references and escaped HTML export. Browser QA exercises searching, favorites, adding, dragging, keyboard positioning, resize/rotation controls, saving and reloading looks, removal/undo, retailer links, and responsive layout. Build and GitHub Pages deployment should be verified before reporting a live launch.
+
+
+Created by Madelynn McDonough. The November 18 shoe edit adds seven kitten-heel options and a dedicated filter. Kelly Wearstler’s public ShopMy latest finds and Closet collection informed the selection: the Hiro Clark and Comme des Garçons PLAY tees appear in her Closet, while the Alex Mill poplin shirt is an independent alternative inspired by her poplin selections. Reformation heels are independently selected, not claimed as Kelly’s recommendations. The striped tee was out of stock and is marked archive inspiration.
