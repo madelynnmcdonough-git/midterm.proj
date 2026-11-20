@@ -26,12 +26,12 @@ Expected deployed URL: https://madelynnmcdonough-git.github.io/midterm.proj/
 
 ## What works
 
-- 47 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
+- 51 photographed pieces from Reformation, Zara, DÔEN, MOTHER, AGOLDE, PAIGE, Alex Mill, Hiro Clark and Comme des Garçons PLAY.
 - Search, designer/color/category filters and price sorting.
 - Product detail dialogs with original retailer links and price snapshots.
 - Local favorites and personal saved lookbooks.
 - Outfit studio: add/remove pieces, drag or move with arrow keys, resize, rotate, change layers and board backgrounds, clear and undo.
-- Nine editable starter lookbooks, including four inspired by relaxed knits, full-length denim, long coats and canvas totes.
+- Twelve editable starter lookbooks, including four inspired by relaxed knits, full-length denim, long coats and canvas totes.
 - HTML piece-list export with source links, plus an on-screen linked list when a browser does not download files.
 - Responsive desktop/mobile layouts, keyboard controls, focus-trapped dialogs, and reduced-motion support.
 
@@ -68,3 +68,8 @@ The J.Crew addition includes a Midnight Cacao cashmere rollneck, navy ribbed joh
 
 
 The Arc’teryx Kragg sneakers were removed from the catalog and all five men’s starter looks at Madelynn’s request. Previously saved looks drop the removed item when loaded.
+
+
+## November 20 camel cable edit
+
+Added the exact camel wool/cashmere cardigan from Madelynn’s Neiman Marcus link, with a product-only photograph and an out-of-stock inspiration label. Ralph Lauren calls the shade Collection Camel Melange. Added Alex Mill brown Italian-wool pleated trousers, a coordinating pleated skirt, and a Thomas Mason blue/white tuxedo shirt. Three new editable lookbooks pair these with existing denim, bags and kitten heels. The women’s catalog now has 51 photographed pieces and 12 starter looks. New USD snapshots were checked November 20, 2026; existing prices retain their earlier check dates.

@@ -172,3 +172,13 @@ Source list: https://www.nuuly.com/rent/closet/lists/d7cef34f-7f7f-46ac-bb2a-d55
 - `men-jcrew-chino.jpg` — [J.Crew product](https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/chino/classic-chino-pant/BE611?color_name=storm-navy) · [Official photograph](https://www.jcrew.com/s7-img-facade/BE611_BL9205_m?hei=1700&crop=0,0,1360,0) · USD snapshot $98; November 18, 2026. On-model photography.
 
 - `men-jcrew-scarf.jpg` — [J.Crew product](https://www.jcrew.com/p/mens/categories/accessories/cold-weather-accessories/scarves/cashmere-scarf-with-fringe/CY918?color_name=camel) · [Official photograph](https://www.jcrew.com/s7-img-facade/CY918_WZ2099_m?hei=1700&crop=0,0,1360,0) · USD snapshot $98; November 18, 2026. On-model photography.
+
+
+## Camel cable edit — November 20, 2026
+
+All four photos are product-only retailer photographs, resized and compressed for the website. The exact requested Neiman Marcus cardigan was $268 and out of stock when checked. The official Ralph Lauren page confirms the Collection Camel Melange shade: https://www.ralphlauren.com/women-clothing-sweaters/cable-knit-wool-cashmere-cardigan/100058271.html . The coordinating Alex Mill items were available when checked; price and size availability can change.
+
+- `ralph-camel-cardigan.jpg` — [Original retailer listing](https://www.neimanmarcus.com/p/ralph-lauren-collection-cable-knit-wool-cashmere-cardigan-prod293050061?pimId=401301694859) · [Original photograph](https://media.neimanmarcus.com/f_auto,q_auto:low,ar_4:5,c_fill,dpr_2.0,w_790/01/nm_5884686_100825_m)
+- `soho-wool-pant.jpg` — [Original retailer listing](https://www.alexmill.com/products/j-press-x-alex-mill-soho-pleated-pant-in-italian-wool-in-brown-multi) · [Original photograph](https://cdn.shopify.com/s/files/1/0295/5521/files/WP165-3908-BROWN-MULTI-15196.jpg?v=1793917755)
+- `primrose-wool-skirt.jpg` — [Original retailer listing](https://www.alexmill.com/products/j-press-x-alex-mill-primrose-pleated-skirt-in-italian-wool-in-brown-multi) · [Original photograph](https://cdn.shopify.com/s/files/1/0295/5521/files/WB066-3908-BROWN-MULTI-15234.jpg?v=1793917646)
+- `blue-tuxedo-shirt.jpg` — [Original retailer listing](https://www.alexmill.com/products/tuxedo-shirt-in-thomas-mason-stripe) · [Original photograph](https://cdn.shopify.com/s/files/1/0295/5521/files/WS185-3967-BLUE-WHITE-17621.jpg?v=1790972752)

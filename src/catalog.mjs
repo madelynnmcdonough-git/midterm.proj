@@ -1,6 +1,10 @@
 import {mensProducts} from './mens-catalog.mjs';
-export const checkedAt='2026-11-17–18';
+export const checkedAt='2026-11-17–20';
 export const products=[
+{"id": "ralph-camel-cardigan", "brand": "Ralph Lauren", "name": "Cable-Knit Wool-Cashmere Cardigan", "color": "Collection Camel Melange", "category": "Knitwear", "tone": "Camel", "price": 268, "image": "ralph-camel-cardigan.jpg", "cutout": true, "url": "https://www.neimanmarcus.com/p/ralph-lauren-collection-cable-knit-wool-cashmere-cardigan-prod293050061?pimId=401301694859", "checkedAt": "2026-11-20", "new": true, "archive": true, "note": "The exact cardigan from Madelynn’s Neiman Marcus link. Camel cable knit in a wool/cashmere blend. Out of stock at Neiman Marcus when checked; included as styling inspiration. Ralph Lauren names this shade Collection Camel Melange."},
+{"id": "soho-wool-pant", "brand": "Alex Mill", "name": "J. Press x Alex Mill Soho Pleated Pant in Italian Wool", "color": "Brown Multi", "category": "Tailoring", "tone": "Brown", "price": 275.0, "image": "soho-wool-pant.jpg", "cutout": true, "url": "https://www.alexmill.com/products/j-press-x-alex-mill-soho-pleated-pant-in-italian-wool-in-brown-multi", "checkedAt": "2026-11-20", "new": true, "archive": false, "note": "Selected to complement camel cable knits, rich denim and low heels. Original product-only retailer photograph. Confirm current sizing, price and availability at Alex Mill."},
+{"id": "primrose-wool-skirt", "brand": "Alex Mill", "name": "J. Press x Alex Mill Primrose Pleated Skirt in Italian Wool", "color": "Brown Multi", "category": "Skirts", "tone": "Brown", "price": 225.0, "image": "primrose-wool-skirt.jpg", "cutout": true, "url": "https://www.alexmill.com/products/j-press-x-alex-mill-primrose-pleated-skirt-in-italian-wool-in-brown-multi", "checkedAt": "2026-11-20", "new": true, "archive": false, "note": "Selected to complement camel cable knits, rich denim and low heels. Original product-only retailer photograph. Confirm current sizing, price and availability at Alex Mill."},
+{"id": "blue-tuxedo-shirt", "brand": "Alex Mill", "name": "Thomas Mason x Alex Mill Tuxedo Striped Shirt", "color": "Blue/White", "category": "Tops", "tone": "Blue", "price": 225.0, "image": "blue-tuxedo-shirt.jpg", "cutout": true, "url": "https://www.alexmill.com/products/tuxedo-shirt-in-thomas-mason-stripe", "checkedAt": "2026-11-20", "new": true, "archive": false, "note": "Selected to complement camel cable knits, rich denim and low heels. Original product-only retailer photograph. Confirm current sizing, price and availability at Alex Mill."},
  {"id": "nuuly-poncho", "brand": "Anthropologie", "name": "Faux Fur Trimmed Oversized Poncho", "color": "Black", "category": "Outerwear", "tone": "Black", "price": null, "retailValue": 168.0, "image": "nuuly-poncho.jpg", "cutout": false, "rental": true, "allRented": true, "url": "https://www.nuuly.com/rent/products/faux-fur-trimmed-oversized-poncho?color=001", "checkedAt": "2026-11-18", "new": true, "note": "From Madelynn’s December Nuuly list. View subscription terms, size availability and rental details at Nuuly. Retail reference value is not a per-item rental price."},
  {"id": "nuuly-coco", "brand": "Noize", "name": "Coco Cropped Glossy Puffer Jacket", "color": "Fig", "category": "Outerwear", "tone": "Burgundy", "price": null, "retailValue": 278.0, "image": "nuuly-coco.jpg", "cutout": false, "rental": true, "allRented": false, "url": "https://www.nuuly.com/rent/products/coco-cropped-glossy-puffer-jacket?color=259", "checkedAt": "2026-11-18", "new": true, "note": "From Madelynn’s December Nuuly list. View subscription terms, size availability and rental details at Nuuly. Retail reference value is not a per-item rental price."},
  {"id": "nuuly-madison", "brand": "Sanctuary", "name": "Madison Longline Wool-Blend Overcoat", "color": "Black", "category": "Outerwear", "tone": "Black", "price": null, "retailValue": 188.0, "image": "nuuly-madison.jpg", "cutout": false, "rental": true, "allRented": false, "url": "https://www.nuuly.com/rent/products/madison-longline-wool-blend-overcoat?color=001", "checkedAt": "2026-11-18", "new": true, "note": "From Madelynn’s December Nuuly list. View subscription terms, size availability and rental details at Nuuly. Retail reference value is not a per-item rental price."},
@@ -49,7 +53,7 @@ export const products=[
  {id:'paige',brand:'PAIGE',name:'Anessa 31″ Wide Leg Jean',color:'Cognac Luxe Coating',category:'Denim',tone:'Neutral',price:289,image:'paige.jpg',cutout:false,url:'https://paige.com/products/women-anessa-31in-cognac-luxe-coating',note:'A warm cognac finish. Image shown on model.'},
  {id:'zara',brand:'ZARA',name:'Cotton-Linen Embroidered Cardigan',color:'Dark burgundy',category:'Knitwear',tone:'Burgundy',price:21.54,image:'zara.jpg',cutout:true,archive:true,url:'https://www.zara.com/us/en/cotton-linen-embroidered-cardigan-p02209465.html?v1=545470545',note:'Archived inspiration: out of stock when checked. Confirm sizing and category at Zara.'},
 ];
-export const brands=['Reformation','ZARA','DÔEN','MOTHER','AGOLDE','PAIGE','Alex Mill','Hiro Clark','Comme des Garçons PLAY','Dunst','Maeve by Anthropologie','Anthropologie','Barbour','Free People','Noize','Sanctuary','Intimately by Free People','Parks Project'];
+export const brands=["Ralph Lauren",'Reformation','ZARA','DÔEN','MOTHER','AGOLDE','PAIGE','Alex Mill','Hiro Clark','Comme des Garçons PLAY','Dunst','Maeve by Anthropologie','Anthropologie','Barbour','Free People','Noize','Sanctuary','Intimately by Free People','Parks Project'];
 export const templates=[
  {id:'weekend',title:'The city uniform',tag:'SOFT KNITS / SHARP DETAILS',desc:'A grey knit, blue denim, espresso canvas and a chocolate-croc kitten heel.',theme:'paper',ids:['grey-knit','agolde','espresso-tote','calista-croc']},
  {id:'forest',title:'A walk on the green side',tag:'EARTHY & EFFORTLESS',desc:'Forest tones meet blue denim and soft ivory.',theme:'sage',ids:['darcy','agolde','sofia','inez']},
@@ -61,3 +65,45 @@ export const byId=id=>[...products,...mensProducts].find(p=>p.id===id);
 export const money=n=>n==null?'See retailer':new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:n%1?2:0}).format(n);
 
 export const priceLabel=p=>p.rental?'Rent at Nuuly':money(p.price);
+
+templates.push(...[
+  {
+    "id": "camel-cable",
+    "title": "The camel cable edit",
+    "tag": "CAMEL CASHMERE / BROWN WOOL",
+    "desc": "Madelynn’s cable-knit cardigan with pleated wool trousers, an ivory bag and oxblood kitten heels.",
+    "theme": "paper",
+    "ids": [
+      "ralph-camel-cardigan",
+      "soho-wool-pant",
+      "sofia",
+      "calista-oxblood"
+    ]
+  },
+  {
+    "id": "autumn-prep",
+    "title": "A little autumn prep",
+    "tag": "CABLE KNIT / SOFT PLEATS",
+    "desc": "Warm camel, brown wool pleats and a chocolate croc slingback. A polished take on autumn prep.",
+    "theme": "sage",
+    "ids": [
+      "ralph-camel-cardigan",
+      "primrose-wool-skirt",
+      "sofia",
+      "calista-croc"
+    ]
+  },
+  {
+    "id": "blue-denim",
+    "title": "Blue sky, dark denim",
+    "tag": "CRISP STRIPES / DARK DENIM",
+    "desc": "A blue striped tuxedo shirt, dark flared denim and an espresso tote, softened with almond kitten heels.",
+    "theme": "paper",
+    "ids": [
+      "blue-tuxedo-shirt",
+      "weekender",
+      "espresso-tote",
+      "calista-almond"
+    ]
+  }
+]);
